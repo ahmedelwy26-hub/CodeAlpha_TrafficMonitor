@@ -3,6 +3,14 @@
 ## Project Overview
 This project implements a lightweight, moving-camera traffic monitoring system tailored for edge devices like the Raspberry Pi. Utilizing a CPU-optimized YOLOv8 ONNX detector, it features motion-compensated tracking, constant-velocity prediction, and IoU/center association. The system provides real-time vehicle counting, direction tracking, and optional speed estimation while maintaining low latency and memory footprints.
 
+
+
+
+https://github.com/user-attachments/assets/fc939fd9-eadd-4498-847d-96769bf8c0b4
+
+
+
+
 ## Hardware Setup
 * **Processing Unit:** Raspberry Pi 4 (Recommended for optimal CPU-only inference) or equivalent edge device.
 * **Camera:** Standard USB Webcam or Raspberry Pi Camera Module.
@@ -46,6 +54,9 @@ Camera Hardware Limits: Tracking accuracy drops at night or in low-light conditi
 
 Proposed Solutions: Future improvements will rely on hardware upgrades, specifically integrating a high-quality camera with built-in night vision to resolve low-light issues, and utilizing a more powerful processing unit to accurately track high-velocity vehicles.
 
+<img width="33%" height="1636" alt="20260911_192547(0)" src="https://github.com/user-attachments/assets/0bac3f4d-6298-4000-a152-ab4309ccc74d" />
+<img width="33%" height="1516" alt="20260911_192239" src="https://github.com/user-attachments/assets/dc81b8a2-2e71-4b5e-a30b-3d0868bb2bfd" />
+<img width="33%" height="1680" alt="20260911_192547" src="https://github.com/user-attachments/assets/432101f0-d61a-41b8-add7-755f5717b46e" />
 
 # Author
 Ahmed Emad Mostafa
