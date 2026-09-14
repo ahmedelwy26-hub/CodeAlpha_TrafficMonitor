@@ -58,5 +58,16 @@ Proposed Solutions: Future improvements will rely on hardware upgrades, specific
 <img width="33%" height="1516" alt="20260911_192239" src="https://github.com/user-attachments/assets/dc81b8a2-2e71-4b5e-a30b-3d0868bb2bfd" />
 <img width="33%" height="1680" alt="20260911_192547" src="https://github.com/user-attachments/assets/432101f0-d61a-41b8-add7-755f5717b46e" />
 
-# Author
-Ahmed Emad Mostafa
+## Project Author
+
+**Ahmad Emad**
+
+Engineering Student
+
+## Internship
+
+Developed for the **CodeAlpha Internship Program**.
+
+## License
+
+This project is intended for educational and internship purposes.
